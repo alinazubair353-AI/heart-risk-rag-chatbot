@@ -91,10 +91,14 @@ scripts/        bootstrap, asset download, synthetic report generator
 tests/          54 pytest tests
 ```
 
+<img width="1363" height="712" alt="Screenshot 2026-10-10 131055" src="https://github.com/user-attachments/assets/850a9313-a46c-47ef-a5e7-f8180b220dcd" />
+
+<img width="1363" height="686" alt="image" src="https://github.com/user-attachments/assets/439a18db-cfca-404a-87ab-e93af5b8db30" />
+
+
 ## AI assistance
 
 I used Claude as a coding and learning assistant while building this project, and I tested and checked the results myself.
 
 ## Author
-
-Your Name | [LinkedIn](https://www.linkedin.com/in/your-profile)
+Alina zubair
